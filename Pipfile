@@ -6,9 +6,12 @@ name = "pypi"
 [packages]
 "boto3" = "*"
 click = "*"
+wheel = "*"
 
 [dev-packages]
 ipython = "*"
+setuptools = "*"
+wheel = "*"
 
 [requires]
 python_version = "3.7"
